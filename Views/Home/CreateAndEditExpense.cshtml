@@ -11,14 +11,13 @@
 </div>
 
 <form asp-action="RedirectEdit" asp-controller="Home">
-    <label class="mt-4">ID</label>
-    <input type="number" class="form-control" placeholder="0" asp-for="Id"/>
+    <input hidden type="number" class="form-control" placeholder="0" asp-for="Id"/>
 
     <label class="mt-4">Value $</label>
     <input type="number" class="form-control" placeholder="0" asp-for="Value" step="0.01"/>
 
     <label class="mt-4">Description</label>
-    <input type="number" class="form-control" placeholder="Add a Description" asp-for="Description" />
+    <input type="text" class="form-control" placeholder="Add a Description" asp-for="Description" />
 
     <button type="submit" class="btn btn-primary mt-4">OK</button>
 </form>

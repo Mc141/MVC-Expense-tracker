@@ -1,7 +1,14 @@
+using Expense_tracker.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<ExpenseTrackerDbContext>(options =>
+options.UseInMemoryDatabase("ExpenseTrackerDb")
+);
 
 var app = builder.Build();
 

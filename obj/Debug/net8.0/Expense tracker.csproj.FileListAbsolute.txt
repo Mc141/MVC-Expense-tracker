@@ -29,3 +29,14 @@ C:\Users\MC\Desktop\Code\C#\Expense tracker\obj\Debug\net8.0\refint\Expense trac
 C:\Users\MC\Desktop\Code\C#\Expense tracker\obj\Debug\net8.0\Expense tracker.pdb
 C:\Users\MC\Desktop\Code\C#\Expense tracker\obj\Debug\net8.0\Expense tracker.genruntimeconfig.cache
 C:\Users\MC\Desktop\Code\C#\Expense tracker\obj\Debug\net8.0\ref\Expense tracker.dll
+C:\Users\MC\Desktop\Code\C#\Expense tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MC\Desktop\Code\C#\Expense tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MC\Desktop\Code\C#\Expense tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\MC\Desktop\Code\C#\Expense tracker\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MC\Desktop\Code\C#\Expense tracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MC\Desktop\Code\C#\Expense tracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MC\Desktop\Code\C#\Expense tracker\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\MC\Desktop\Code\C#\Expense tracker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MC\Desktop\Code\C#\Expense tracker\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\MC\Desktop\Code\C#\Expense tracker\obj\Debug\net8.0\Expense tracker.csproj.AssemblyReference.cache
+C:\Users\MC\Desktop\Code\C#\Expense tracker\obj\Debug\net8.0\Expense .ADD18414.Up2Date
