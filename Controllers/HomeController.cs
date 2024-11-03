@@ -18,7 +18,7 @@ namespace Expense_tracker.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Expenses()
         {
             return View();
         }
